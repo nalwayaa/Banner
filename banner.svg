@@ -56,8 +56,8 @@
     </path>
 
     <g font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" text-anchor="middle">
-      <text x="600" y="130" font-size="92" font-weight="800" letter-spacing="6" fill="url(#txt)">Aditya Nalwaya</text>
-      <text x="600" y="180" font-size="26" font-weight="500" fill="#E9E5FF" fill-opacity="0.92" letter-spacing="1.5">Biomedical Signal Processing | AI / ML  |  Healthcare </text>
+      <text x="600" y="130" font-size="92" font-weight="800" letter-spacing="6" text-anchor="middle" fill="url(#txt)">Aditya Nalwaya</text>
+      <text x="600" y="180" font-size="26" font-weight="500" text-anchor="middle" fill="#E9E5FF" fill-opacity="0.92" letter-spacing="1.5">Biomedical Signal Processing | AI / ML  |  Healthcare </text>
       <!-- <rect x="440" y="203" width="320" height="34" rx="17" fill="url(#pill)">
         <animate attributeName="opacity" values="1;0.8;1" dur="3s" repeatCount="indefinite"/>
       </rect>
